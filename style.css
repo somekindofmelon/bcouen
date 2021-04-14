@@ -1,0 +1,26 @@
+h1 {
+    color: #a52a2a;
+}
+
+/* * {
+    border: solid;
+}*/
+.hed{
+    background-color: #fa8072;
+
+}
+.gayms{
+    display:flex;
+    justify-content: space-evenly;
+}
+.soshalMedeea{
+    display:flex;
+    justify-content: flex-end;
+    background-color: #ffe4c4;
+}
+h2,p{
+    color: #4bb122;
+}
+body{
+    background-color: #ffe4c4;
+}
